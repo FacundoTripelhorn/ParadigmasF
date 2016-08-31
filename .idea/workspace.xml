@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c3fb99-9b71-4ead-b300-ea2efd4b7cc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TP1/Test/Ejercicio4/Ejercicio4Test.java" />
+    <list default="true" id="e9c3fb99-9b71-4ead-b300-ea2efd4b7cc4" name="Default" comment="Facu">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TP1/Test/Ejercicio5/Ejercicio5Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TP1/src/Ejercicio5/Ejercicio5.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Paradigmas.iws" />
@@ -45,16 +46,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ejercicio2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TP1/src/Ejercicio2/Ejercicio2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Ejercicio2Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TP1/Test/Ejercicio2/Ejercicio2Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,14 +76,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ejercicio4Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ejercicio4Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TP1/Test/Ejercicio4/Ejercicio4Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="323">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="e#274#275#0" expanded="true" />
                 <element signature="e#324#325#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejercicio5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TP1/src/Ejercicio5/Ejercicio5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejercicio5Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TP1/Test/Ejercicio5/Ejercicio5Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,6 +154,8 @@
         <option value="$PROJECT_DIR$/TP1/src/Ejercicio3/Ejercicio3.java" />
         <option value="$PROJECT_DIR$/TP1/Test/Ejercicio4/Ejercicio4Test.java" />
         <option value="$PROJECT_DIR$/TP1/src/Ejercicio4/Ejercicio4.java" />
+        <option value="$PROJECT_DIR$/TP1/src/Ejercicio5/Ejercicio5.java" />
+        <option value="$PROJECT_DIR$/TP1/Test/Ejercicio5/Ejercicio5Test.java" />
       </list>
     </option>
   </component>
@@ -169,7 +185,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -302,6 +318,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Ejercicio5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paradigmas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Paradigmas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Ejercicio4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -389,6 +427,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Ejercicio5" />
       <recent name="Ejercicio4" />
       <recent name="Ejercicio3" />
       <recent name="Ejercicio2" />
@@ -398,7 +437,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Ejercicio4Test.MayorA1">
+  <component name="RunManager" selected="JUnit.Ejercicio5Test">
     <configuration default="false" name="Ejercicio3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -413,32 +452,6 @@
       <option name="MAIN_CLASS_NAME" value="Ejercicio3.Ejercicio3Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Ejercicio3Test.factorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Ejercicio3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TP1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Ejercicio3" />
-      <option name="MAIN_CLASS_NAME" value="Ejercicio3.Ejercicio3Test" />
-      <option name="METHOD_NAME" value="factorial" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -517,6 +530,32 @@
       <option name="MAIN_CLASS_NAME" value="Ejercicio4.Ejercicio4Test" />
       <option name="METHOD_NAME" value="MayorA1" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ejercicio5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TP1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Ejercicio5" />
+      <option name="MAIN_CLASS_NAME" value="Ejercicio5.Ejercicio5Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -945,18 +984,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Ejercicio3Test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Ejercicio3Test.factorial" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.resultado" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.MayorA1" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.resultado" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.MayorA1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Ejercicio5Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.MayorA1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.resultado" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Ejercicio3Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Ejercicio3Test.factorial" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Ejercicio5Test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.MayorA1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Ejercicio4Test.resultado" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Ejercicio3Test" />
       </list>
     </recent_temporary>
   </component>
@@ -975,17 +1014,19 @@
       <updated>1472606529195</updated>
       <workItem from="1472606531310" duration="10000000" />
       <workItem from="1472671105127" duration="68000" />
-      <workItem from="1472671674796" duration="2831000" />
+      <workItem from="1472671674796" duration="3837000" />
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1472674650039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1472674650039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Ejercicio3Test - 2016.08.31 at 00h 01m 18s.xml">
-      <configuration name="Ejercicio3Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Ejercicio3Test - 2016.08.31 at 00h 16m 29s.xml">
-      <configuration name="Ejercicio3Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Ejercicio3Test_factorial - 2016.08.31 at 00h 01m 51s.xml">
       <configuration name="Ejercicio3Test.factorial" configurationId="JUnit" />
     </history-entry>
@@ -1010,9 +1051,15 @@
     <history-entry file="Ejercicio4Test_resultado - 2016.08.31 at 16h 54m 50s.xml">
       <configuration name="Ejercicio4Test.resultado" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Ejercicio5Test - 2016.08.31 at 17h 31m 29s.xml">
+      <configuration name="Ejercicio5Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ejercicio5Test - 2016.08.31 at 17h 32m 26s.xml">
+      <configuration name="Ejercicio5Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12899000" />
+    <option name="totallyTimeSpent" value="13905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="29" width="1346" height="688" extended-state="0" />
@@ -1057,7 +1104,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value=".." />
+    <MESSAGE value="Facu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Facu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1236,13 +1285,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/builders/JUnit4Builder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TP1/Test/Ejercicio4/Ejercicio4Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="323">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="e#274#275#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP1/src/Ejercicio5/Ejercicio5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP1/Test/Ejercicio5/Ejercicio5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
