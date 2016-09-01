@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c3fb99-9b71-4ead-b300-ea2efd4b7cc4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TP2/Test/Ejercicio3/Ejercicio3Test.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP1/src/Ejercicio3/Ejercicio3.java" afterPath="$PROJECT_DIR$/TP1/src/Ejercicio3/Ejercicio3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP2/src/Ejercicio3/Ejercicio3.java" afterPath="$PROJECT_DIR$/TP2/src/Ejercicio3/Ejercicio3.java" />
     </list>
     <ignored path="Paradigmas.iws" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="Ejercicio3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TP2/src/Ejercicio3/Ejercicio3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="52" column="74" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+            <state relative-caret-position="713">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -996,7 +994,7 @@
       <workItem from="1472671105127" duration="68000" />
       <workItem from="1472671674796" duration="13321000" />
       <workItem from="1472687272877" duration="5174000" />
-      <workItem from="1472701677055" duration="2381000" />
+      <workItem from="1472701677055" duration="3126000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1472674650039</created>
@@ -1033,7 +1031,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472698722361</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Facu">
+      <created>1472704220108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1472704220108</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1069,7 +1074,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30944000" />
+    <option name="totallyTimeSpent" value="31689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1495,8 +1500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TP2/src/Ejercicio3/Ejercicio3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="52" column="74" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+        <state relative-caret-position="713">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

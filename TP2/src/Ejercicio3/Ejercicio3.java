@@ -1,5 +1,6 @@
 package Ejercicio3;
 
+import javax.swing.*;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -49,8 +50,9 @@ public class Ejercicio3 {
         }else if (consola==2){
             opcionConsola="Tijeras";
         }
-
         System.out.println("La consola eligió \"" + opcionConsola + "\"");
-        System.out.println("El ganador es \"" + Juego(opcionUsuario,opcionConsola) + "\"");
+        String res= Juego(opcionUsuario, opcionConsola);
+        System.out.println("El ganador es " + res);
+
     }
 }
