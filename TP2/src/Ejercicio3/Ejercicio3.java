@@ -10,28 +10,29 @@ import java.util.Scanner;
 public class Ejercicio3 {
     public static String resultado;
     public static String opcionConsola;
+    public static int usuario;
 
-    public static String Juego(String x, String y) {
+    public static String Juego(int x, int y) {
+
         if (x==y) {
             resultado = "Empate";
+        } else{
+            if (x == 0 && y == 1) {
+                resultado = "Ganó la consola con papel";
+            } else if (x == 0 && y == 2) {
+                resultado = "Ganó el usuario con piedra";
+            }
+            if (x == 1 && y==2) {
+                resultado =  "Ganó la consola con tijeras";
+            } else if (x==1 && y==0) {
+                resultado = "Ganó el usuario con papel";
+            }
+            if (x==2 && y==0) {
+                resultado = "Ganó la consola con piedra";
+            } else if (x==2 && y==1) {
+                resultado = "Ganó el usuario con tijeras";
+            }
         }
-        do {
-            if (x == "Piedra" && y == "Papel") {
-                resultado = "Ganó la consola con \"" + y +"\"";
-            } else if (x == "Piedra" && y == "Tijeras") {
-                resultado = "Ganó el usuario con \"" + x +"\"";
-            }
-            if (x == "Papel" && y=="Tijeras") {
-                resultado =  "Ganó la consola con \"" +y +"\"";
-            } else if (x=="Papel" && y=="Piedra") {
-                resultado = "Ganó el usuario con \"" + x +"\"";
-            }
-            if (x=="Tijeras" && y=="Piedra") {
-                resultado = "Ganó la consola con \"" +y +"\"";
-            } else if (x=="Tijeras" && y=="Papel") {
-                resultado = "Ganó el usuario con \"" + x +"\"";
-            }
-        } while (x!=y);
         return resultado;
     }
 
@@ -43,16 +44,31 @@ public class Ejercicio3 {
         opcionUsuario = usuarioScanner.nextLine();
 
         int consola = new Random().nextInt(3);
-        if (consola==0){
-            opcionConsola="Piedra";
-        } else if (consola==1){
-            opcionConsola="Papel";
-        }else if (consola==2){
-            opcionConsola="Tijeras";
-        }
-        System.out.println("La consola eligió \"" + opcionConsola + "\"");
-        String res= Juego(opcionUsuario, opcionConsola);
-        System.out.println("El ganador es " + res);
 
+        switch (opcionUsuario) {
+            case "Piedra":
+                usuario = 0;
+                break;
+            case "Papel":
+                usuario = 1;
+                break;
+            case "Tijeras":
+                usuario = 2;
+                break;
+        }
+
+        switch (consola) {
+            case 0:
+                opcionConsola = "Piedra";
+                break;
+            case 1:
+                opcionConsola = "Papel";
+                break;
+            case 2:
+                opcionConsola = "Tijeras";
+                break;
+        }
+        System.out.println("La consola eligió " + opcionConsola);
+        System.out.println(Juego(usuario, consola));
     }
 }
