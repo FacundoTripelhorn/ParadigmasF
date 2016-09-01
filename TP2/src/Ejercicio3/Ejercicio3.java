@@ -18,19 +18,19 @@ public class Ejercicio3 {
             resultado = "Empate";
         } else{
             if (x == 0 && y == 1) {
-                resultado = "Ganó la consola con papel";
+                resultado = "Ganó la consola con Papel";
             } else if (x == 0 && y == 2) {
-                resultado = "Ganó el usuario con piedra";
+                resultado = "Ganó el usuario con Piedra";
             }
             if (x == 1 && y==2) {
-                resultado =  "Ganó la consola con tijeras";
+                resultado =  "Ganó la consola con Tijeras";
             } else if (x==1 && y==0) {
-                resultado = "Ganó el usuario con papel";
+                resultado = "Ganó el usuario con Papel";
             }
             if (x==2 && y==0) {
-                resultado = "Ganó la consola con piedra";
+                resultado = "Ganó la consola con Piedra";
             } else if (x==2 && y==1) {
-                resultado = "Ganó el usuario con tijeras";
+                resultado = "Ganó el usuario con Tijeras";
             }
         }
         return resultado;
@@ -68,7 +68,9 @@ public class Ejercicio3 {
                 opcionConsola = "Tijeras";
                 break;
         }
-        System.out.println("La consola eligió " + opcionConsola);
+        System.out.println("La consola eligió \"" + opcionConsola + "\"");
+
         System.out.println(Juego(usuario, consola));
+
     }
 }
