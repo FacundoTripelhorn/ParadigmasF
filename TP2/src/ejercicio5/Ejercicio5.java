@@ -35,10 +35,10 @@ public class Ejercicio5 {
 
             for (int i = 0; i < array.length; i++) {
                 if (primo(array[i]) == true) {
-                    escribirprimos.write(array[i] + " \n");
+                    escribirprimos.write(array[i] + "\n");
                 }
                 if (3000%array[i]==0){
-                    escribirdivisores.write(array[i] + " \n");
+                    escribirdivisores.write(array[i] + "\n");
                 }
 
                 if (array[i]%2==0){
@@ -47,8 +47,12 @@ public class Ejercicio5 {
                     contadorimpar++;
                 }
             }
-            escribirpromedios.write("Promedio números pares: " + contadorpar/array.length + " \n");
-            escribirpromedios.write("Promedio números impares: " + contadorimpar/array.length);
+double a=0.5;
+            double b= (1/2);
+            double promediopar=(contadorpar/array.length);
+            double promedioimpar=(contadorimpar/array.length);
+            escribirpromedios.write("Promedio números pares: " + promediopar + "\n");
+            escribirpromedios.write("Promedio números impares: " + promedioimpar);
             escribirprimos.close();
             escribirdivisores.close();
             escribirpromedios.close();
