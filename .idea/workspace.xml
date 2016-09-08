@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c3fb99-9b71-4ead-b300-ea2efd4b7cc4" name="Default" comment="Facu">
+    <list default="true" id="e9c3fb99-9b71-4ead-b300-ea2efd4b7cc4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java" afterPath="$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java" afterPath="$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP2/src/ejercicio7/Ejercicio7.java" afterPath="$PROJECT_DIR$/TP2/src/ejercicio7/Ejercicio7.java" />
     </list>
     <ignored path="Paradigmas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ejercicio5.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Ejercicio5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ejercicio7.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ejercicio7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TP2/src/ejercicio7/Ejercicio7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -55,15 +54,11 @@
         </entry>
       </file>
       <file leaf-file-name="Ejercicio5Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java">
+        <entry file="file://$PROJECT_DIR$/TP1/Test/ejercicio5/Ejercicio5Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-              <folding>
-                <element signature="e#633#641#0" expanded="true" />
-                <element signature="e#700#708#0" expanded="true" />
-                <element signature="e#767#775#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,9 +126,9 @@
         <option value="$PROJECT_DIR$/TP2/src/ejercicio8/Ejercicio8.java" />
         <option value="$PROJECT_DIR$/TP2/Test/Ejercicio8/Ejercicio8Test.java" />
         <option value="$PROJECT_DIR$/TP2/Test/ejercicio8/Ejercicio8Test.java" />
-        <option value="$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java" />
-        <option value="$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java" />
         <option value="$PROJECT_DIR$/TP2/src/ejercicio7/Ejercicio7.java" />
+        <option value="$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java" />
+        <option value="$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java" />
       </list>
     </option>
   </component>
@@ -231,28 +226,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Paradigmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Paradigmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TP2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ejercicio7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -866,7 +839,7 @@
       <workItem from="1472768166811" duration="6714000" />
       <workItem from="1472928747682" duration="10407000" />
       <workItem from="1473199205051" duration="17379000" />
-      <workItem from="1473271975475" duration="17669000" />
+      <workItem from="1473271975475" duration="17925000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1472674650039</created>
@@ -959,19 +932,17 @@
       <option name="project" value="LOCAL" />
       <updated>1473294053973</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Facu">
+      <created>1473300354003</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1473300354003</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 22h 14m 54s.xml">
-      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 22h 16m 53s.xml">
-      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 22h 21m 14s.xml">
-      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 22h 45m 38s.xml">
       <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
     </history-entry>
@@ -990,16 +961,25 @@
     <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 22h 59m 47s.xml">
       <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Ejercicio7Test_rectangulos - 2016.09.07 at 22h 15m 05s.xml">
-      <configuration name="Ejercicio7Test.rectangulos" configurationId="JUnit" />
+    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 23h 07m 49s.xml">
+      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 23h 07m 52s.xml">
+      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 23h 08m 48s.xml">
+      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ejercicio5Test_archivos - 2016.09.07 at 23h 09m 13s.xml">
+      <configuration name="Ejercicio5Test.archivos" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84003000" />
+    <option name="totallyTimeSpent" value="84259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1009,12 +989,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29787233" sideWeight="0.5045386" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29787233" sideWeight="0.49546143" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29787233" sideWeight="0.49546143" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.4942717" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.4942717" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1026,7 +1007,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1066,20 +1046,8 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1198,13 +1166,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TP1/Test/ejercicio5/Ejercicio5Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1447,10 +1408,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TP2/src/ejercicio7/Ejercicio7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TP2/Test/ejercicio5/Ejercicio5Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state relative-caret-position="-211">
+          <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
           <folding>
             <element signature="e#633#641#0" expanded="true" />
             <element signature="e#700#708#0" expanded="true" />
@@ -1459,21 +1428,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java">
+    <entry file="file://$PROJECT_DIR$/TP1/Test/ejercicio5/Ejercicio5Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TP2/src/ejercicio7/Ejercicio7.java">
+    <entry file="file://$PROJECT_DIR$/TP2/src/ejercicio5/Ejercicio5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="18">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

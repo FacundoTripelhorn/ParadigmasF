@@ -47,10 +47,9 @@ public class Ejercicio5 {
                     contadorimpar++;
                 }
             }
-double a=0.5;
-            double b= (1/2);
-            double promediopar=(contadorpar/array.length);
-            double promedioimpar=(contadorimpar/array.length);
+
+            double promediopar=(double)contadorpar/array.length;
+            double promedioimpar=(double)contadorimpar/array.length;
             escribirpromedios.write("Promedio números pares: " + promediopar + "\n");
             escribirpromedios.write("Promedio números impares: " + promedioimpar);
             escribirprimos.close();

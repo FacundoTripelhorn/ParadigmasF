@@ -33,7 +33,7 @@ public class Ejercicio5Test {
         int[] array={2,10,1500, 300, 45, 63, 9, 11};
         String[] resultadoprimos = {"2", "11"};
         String[] resultadodivisores = {"2", "10", "1500", "300"};
-        String[] resultadospromedios = {"Promedio números pares: 0", "Promedio números impares: 0"};
+        String[] resultadospromedios = {"Promedio números pares: 0.5", "Promedio números impares: 0.5"};
 ejercicio5.archivos(array);
         try{
             FileReader lectorprimos = new FileReader("primos.txt");
